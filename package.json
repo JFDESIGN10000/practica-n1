@@ -1,1 +1,18 @@
-"" 
+{
+    "name": "practica-n1",
+    "version": "1.0.0",
+    "description": "Mi primer To-Do List con jQuery",
+    "main": "index.js",
+    "scripts": {
+      "start": "echo \"Abre index.html en tu navegador\""
+    },
+    "keywords": [
+      "todo",
+      "list",
+      "jquery",
+      "practica"
+    ],
+    "author": "José Félix",
+    "license": "ISC"
+  }
+  
